@@ -1,0 +1,6 @@
+/usr/local/lib/python3.9/dist-packages/torch/utils/checkpoint.py:429: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+{'loss': 2.8718, 'learning_rate': 0.0001, 'epoch': 0.0}
+{'loss': 3.1473, 'learning_rate': 0.0002, 'epoch': 0.0}
+{'loss': 2.2393, 'learning_rate': 0.000175, 'epoch': 0.0}
+{'loss': 3.2296, 'learning_rate': 0.00015000000000000001, 'epoch': 0.0}

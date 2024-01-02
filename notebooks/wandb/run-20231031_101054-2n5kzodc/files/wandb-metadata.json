@@ -1,0 +1,23 @@
+{
+    "os": "Linux-5.19.0-45-generic-x86_64-with-glibc2.31",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-10-31T10:10:54.765168",
+    "startedAt": "2023-10-31T10:10:54.123319",
+    "docker": null,
+    "gpu": "Quadro P5000",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "notebooks/Untitled.ipynb",
+    "root": "/notebooks",
+    "git": {
+        "remote": "https://github.com/huggingface/transformers.git",
+        "commit": "9e87618f2be1401df55c36ad726629ae201e8e4d"
+    },
+    "email": null,
+    "host": "nw7yeyorqr",
+    "username": "root",
+    "executable": "/usr/local/bin/python3"
+}
